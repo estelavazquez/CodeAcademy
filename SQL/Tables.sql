@@ -1,4 +1,4 @@
-/* Tables - Estela Vázquez Paretas */
+/* Create a Table - Estela Vázquez Paretas */
 CREATE TABLE enemies (
 id INTEGER,
 name TEXT,
